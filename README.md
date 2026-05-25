@@ -2,10 +2,10 @@
 an interactive PowerBI Dashboard for virtual Makeup store 
 # LotusGlow Sales Analytics Dashboard | Power BI
 
-![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow?style=for-the-badge&logo=powerbi)
-![DAX](https://img.shields.io/badge/Language-DAX-blue?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/ETL-PowerQuery-green?style=for-the-badge)
-![Data Analytics](https://img.shields.io/badge/Field-DataAnalytics-orange?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Tool-PowerBI-ff69b4?style=for-the-badge&logo=powerbi)
+![DAX](https://img.shields.io/badge/Language-DAX-9370db?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/ETL-PowerQuery-ffc0cb?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Field-DataAnalytics-f3e5ab?style=for-the-badge)
 
 ---
 
