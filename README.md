@@ -1,6 +1,5 @@
 # LotusGlow-Dashboard
 an interactive PowerBI Dashboard for virtual Makeup store 
-````md
 # LotusGlow Sales Analytics Dashboard | Power BI
 
 ![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow?style=for-the-badge&logo=powerbi)
